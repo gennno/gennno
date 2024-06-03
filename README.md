@@ -1,4 +1,4 @@
-# Hi there, I'm Geovanno Ardy Wicaksana - aka [gennno](https://www.youtube.com/@geovannoardy) 👋
+# Hi there, I'm Geovanno Ardy Wicaksana - aka [Geovanno](https://www.youtube.com/@geovannoardy) 👋
 ## About me:
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript
