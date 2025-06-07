@@ -8,8 +8,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="padding-right:10px;" />
