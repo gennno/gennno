@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="MySQL" width="70px" src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="padding-right:10px;" />
 
 
