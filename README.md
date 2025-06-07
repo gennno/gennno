@@ -17,7 +17,9 @@
 <img align="left" alt="MySQL" height="50px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
-
+<img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" />
 <br />
 <br />
 
