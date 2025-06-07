@@ -8,8 +8,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="30px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="50px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="padding-right:10px;" />
 
 
 <br />
