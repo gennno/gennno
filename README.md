@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m currently studying at Politeknik Negeri Batam
 - 💬 Ask me about anything
-- 📫 How to reach me: geovannoardy@gmail.com
+- 📫 How to reach me: [https://geovanno.my.id/](https://geovanno.my.id/)
 
 ---
 
