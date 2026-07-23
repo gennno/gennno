@@ -1,4 +1,4 @@
-# Hi there, I'm Geovanno Ardy Wicaksana - aka [Geovanno](https://www.youtube.com/@geovannoardy) 👋
+# Hi there, I'm Geovanno Ardy Wicaksana - aka [Geovanno](https://geovanno.my.id/) 👋
 ## About me:
 - 🔭 I’m currently studying at Politeknik Negeri Batam
 - 💬 Ask me about anything
